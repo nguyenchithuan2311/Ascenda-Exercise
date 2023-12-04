@@ -9,10 +9,8 @@ Afterward, you can run the project following the image below:
 Now, you should see the website at http://localhost:8080/
 ![image](https://github.com/nguyenchithuan2311/Ascenda-Exercise/assets/83408110/684b2488-d372-4a0b-a776-9547443d2991)
 You can choose the date you want, submit it, and then you will see the output:
-![image](https://github.com/nguyenchithuan2311/Ascenda-Exercise/assets/83408110/ea4b8c9f-2043-47bd-b155-814feedf2676)
-
 ![image](https://github.com/nguyenchithuan2311/Ascenda-Exercise/assets/83408110/35b823dd-84fe-4be7-813c-1dd1ef4d7fed)
-![image](https://github.com/nguyenchithuan2311/Ascenda-Exercise/assets/83408110/9f2e537a-dc1f-4654-86c9-398848cda28a)
+![image](https://github.com/nguyenchithuan2311/Ascenda-Exercise/assets/83408110/ea4b8c9f-2043-47bd-b155-814feedf2676)
 Alternatively, you can view the output in output.json. And modify the input.json file.
 
 
