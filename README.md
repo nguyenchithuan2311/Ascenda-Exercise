@@ -1,4 +1,4 @@
-![image](https://github.com/nguyenchithuan2311/Ascenda-Exercise/assets/83408110/748f29f5-f22c-4122-8615-738d6a87d79d)# Ascenda-Exercise
+# Ascenda-Exercise
 To run the first project, you need to download the .NET 8.0 SDK (Link: https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
 <br />
 Next, you can run it through the Command Line Interface (CLI) using Command Prompt.
