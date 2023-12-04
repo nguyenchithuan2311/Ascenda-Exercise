@@ -1,0 +1,17 @@
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\bin\Debug\net8.0\Ascenda_Exercise.exe
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\bin\Debug\net8.0\Ascenda_Exercise.deps.json
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\bin\Debug\net8.0\Ascenda_Exercise.runtimeconfig.json
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\bin\Debug\net8.0\Ascenda_Exercise.dll
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\bin\Debug\net8.0\Ascenda_Exercise.pdb
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\obj\Debug\net8.0\Ascenda_Exercise.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\obj\Debug\net8.0\Ascenda_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\obj\Debug\net8.0\Ascenda_Exercise.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\obj\Debug\net8.0\Ascenda_Exercise.AssemblyInfo.cs
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\obj\Debug\net8.0\Ascenda_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\obj\Debug\net8.0\Ascenda_Exercise.csproj.CopyComplete
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\obj\Debug\net8.0\Ascenda_Exercise.dll
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\obj\Debug\net8.0\refint\Ascenda_Exercise.dll
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\obj\Debug\net8.0\Ascenda_Exercise.pdb
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\obj\Debug\net8.0\Ascenda_Exercise.genruntimeconfig.cache
+C:\Users\nguye\source\repos\Ascenda_Exercise\Ascenda_Exercise\obj\Debug\net8.0\ref\Ascenda_Exercise.dll
